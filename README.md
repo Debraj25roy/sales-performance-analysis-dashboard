@@ -72,4 +72,4 @@ The Excel file `Sales_Performance_Analysis.xlsx` already includes:
    - `Monthly_Sales`
    - `Top_Products`
    - `Region_Sales`
-3. (Optional) Import `data/sales_data.csv` into Power BI/Tableau and create an interactive dashboard.
+3. Import `data/sales_data.csv` into Power BI/Tableau and create an interactive dashboard.
